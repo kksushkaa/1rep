@@ -9,3 +9,7 @@ for i in range(10):
 for x in range(10):
     print(x)
 
+
+def foo(x):
+    return x
+print(foo(5))
