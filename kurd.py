@@ -9,3 +9,5 @@ for i in range(10):
 for x in range(10):
     print(x)
 
+sp = [i for i in range(10)]
+
